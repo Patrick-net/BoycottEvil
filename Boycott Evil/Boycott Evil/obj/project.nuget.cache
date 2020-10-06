@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bA+yXIQJtmJ7LdmDuPIAiKicpiDFJUPG9x7o2JvS1RZHZoF47xV8Mz6Iq4JI5IbtfsO4gIJzXTFtxE6It10Ew==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Patrick\\Boycott Evil\\Boycott Evil\\Boycott Evil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N23D\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
